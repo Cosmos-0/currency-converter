@@ -56,6 +56,6 @@ Contributions are what make the open-source community an amazing place to learn,
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [oussamadalaa1@gmail.Com](Oussamadalaa1@gmail.Com)
+Oussama Dalaa - [oussamadalaa1@gmail.Com](Oussamadalaa1@gmail.Com)
 
 Project Link: [https://vercel.com/cosmos-0s-projects/currency-converter-kiab](https://vercel.com/cosmos-0s-projects/currency-converter-kiab)
