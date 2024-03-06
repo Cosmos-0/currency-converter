@@ -17,7 +17,7 @@ function App() {
     setConversionRate(0);
     setError("");
 
-    fetch(`https://api.exchangerate-api.com/v4/latest/${fromCurrency}`)
+    fetch(`https://v6.exchangerate-api.com/v6/21d0bdc1f9d63cd793d4158c/latest/${fromCurrency}`)
       .then((response) => response.json())
       .then((data) => {
         if (data.rates && data.rates[toCurrency]) {
